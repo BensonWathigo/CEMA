@@ -4,20 +4,20 @@ HIV continues to be a major public health issue in Africa, with a high number of
 
 You are provided with a dataset from the World Health Organization (WHO) Global Observatory, containing data on people living with HIV at the country level from 2000 to 2023.
 
-# Using this dataset, we would like you to:
+# Using this dataset, I have:
 
-Create a visualization that shows the trend of HIV cases in the countries that contribute to 75% of the global burden
+Created a visualization that shows the trend of HIV cases in the countries that contribute to 75% of the global burden
 
-Generate a visualization that displays the trend of HIV cases in the countries contributing to 75% of the burden within each WHO region (column called ParentLocationCode contains the WHO regions)
+Generated a visualization that displays the trend of HIV cases in the countries contributing to 75% of the burden within each WHO region (column called ParentLocationCode contains the WHO regions)
 
-You have also been provided with World Bank data on the multidimensional poverty headcount ratio, which includes factors such as income, educational attainment, school enrolment, electricity access, sanitation and drinking water.
+I have also been provided with World Bank data on the multidimensional poverty headcount ratio, which includes factors such as income, educational attainment, school enrolment, electricity access, sanitation and drinking water.
 
-We would like you to merge this dataset with the HIV data above and analyze the relationship between people living with HIV and multidimensional poverty, and the individual factors that contribute to the ratio. Remember to account for the random effects (country, year).
+I have merged this dataset with the HIV data above and analyze the relationship between people living with HIV and multidimensional poverty, and the individual factors that contribute to the ratio. I have also accounted for the random effects (country, year).
 
-Write a paragraph on your findings.
+At the end, there is a paragraph on my findings.
 
 # Question two 
-You have been provided with data on the under-five mortality rate and neonatal mortality rate for the African region, which has been downloaded from the UN Inter-agency Group for Child Mortality Estimation. Your task is to:
+I have been provided with data on the under-five mortality rate and neonatal mortality rate for the African region, which has been downloaded from the UN Inter-agency Group for Child Mortality Estimation. My task was to:
 
 Filter data for the eight countries belonging to the East African Community (list here: https://www.eac.int/overview-of-eac)
 
@@ -25,6 +25,6 @@ Visualize the latest estimate of each indicator at the country level using shape
 
 Show the average trends in the mortality rates over time (plot the average trend line and add the points in the graphic for the country level estimates for each indicator. Expectation: two plots).
 
-Based on your visualizations, identify the countries with the highest under-five mortality rates in East Africa and the highest neonatal mortality.
+Based on my visualizations, identify the countries with the highest under-five mortality rates in East Africa and the highest neonatal mortality.
 
 
