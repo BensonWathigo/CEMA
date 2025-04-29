@@ -16,7 +16,8 @@ We would like you to merge this dataset with the HIV data above and analyze the 
 
 Write a paragraph on your findings.
 
-# Question two You have been provided with data on the under-five mortality rate and neonatal mortality rate for the African region, which has been downloaded from the UN Inter-agency Group for Child Mortality Estimation. Your task is to:
+# Question two 
+You have been provided with data on the under-five mortality rate and neonatal mortality rate for the African region, which has been downloaded from the UN Inter-agency Group for Child Mortality Estimation. Your task is to:
 
 Filter data for the eight countries belonging to the East African Community (list here: https://www.eac.int/overview-of-eac)
 
